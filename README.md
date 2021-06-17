@@ -21,8 +21,13 @@ NPM packages include:
   * npm i express
   * npm mongoose
 
-# Dependencies
-
 # Technologies
+The following technologies were used:
+  * NodeJS
+  * Mongo DB
+  * HTML
+  * CSS
+  * Bootstrap
+  * JQuery
 
 # Visuals
