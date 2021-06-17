@@ -7,7 +7,7 @@ request.onupgradeneeded = ({target}) => {
 }
 
 request.onsuccess = ({target}) => {
-    let db = target.result;
+    db = target.result;
     if(navigator.online){
         checkDatabase();
     }
@@ -22,4 +22,32 @@ function saveRecord(record) {
     let store = transaction.objectStore("pending")
     store.add(record)
 }
+
+function checkDatabase() {
+    let transaction = db.transaction(["pending"], "readwrite");
+    let store = transaction.objectStore("pending");
+    let getAll = store.getAll();
+    getAll.onsuccess = function() {
+        if(getAll.result.length > 0) {
+            fetch("/api/transation/bulk", {
+                method: "POST",
+                body: JSON.stringify/(getAll.result),
+                headers:
+                {
+                    Accept: "application/json, text/plain, */*", "Content-Type": "application/json"
+                }
+            })
+            .then(response => {
+                return response.json();
+            })
+            .then(() => {
+                let transaction = db.transaction(["pending"], "readwrite");
+                let store = transaction.objectStore("pending");
+                store.clear();
+            });
+        }
+    };
+}
+
+window.addEventListener("online", checkDatabase);
 
