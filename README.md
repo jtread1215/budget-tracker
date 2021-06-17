@@ -11,6 +11,7 @@ SO THAT my account balance is accurate when I am traveling
 Offline Functionality:
   * Enter deposits offline.
   * Enter expenses offline.
+  
 When brought back online:
   * Offline entries should be added to tracker.
 
