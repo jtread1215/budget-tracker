@@ -16,6 +16,10 @@ When brought back online:
   * Offline entries should be added to tracker.
 
 # Install
+NPM packages include:
+  * npm i install
+  * npm i express
+  * npm mongoose
 
 # Dependencies
 
