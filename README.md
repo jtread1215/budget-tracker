@@ -36,7 +36,7 @@ The following technologies were used:
 Budget with added paycheck and subtracted rent. (Status Online)
 ![scrnsht 1](https://user-images.githubusercontent.com/77247419/122623071-c5e18700-d068-11eb-86cd-d3e550d955fc.JPG)
 
-Budget with added paycheck and subtracted rent. (Status Offline)
+Budget subtracted utilities and added lottery win. (Status Offline)
 ![scrnsht 2](https://user-images.githubusercontent.com/77247419/122623084-cf6aef00-d068-11eb-9317-6dda52d6fe9f.JPG)
 
 Budget with added paycheck and subtracted rent. (Status Online)
