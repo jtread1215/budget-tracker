@@ -39,9 +39,7 @@ Budget with added paycheck and subtracted rent. (Status Online)
 Budget subtracted utilities and added lottery win. (Status Offline)
 ![scrnsht 2](https://user-images.githubusercontent.com/77247419/122623084-cf6aef00-d068-11eb-9317-6dda52d6fe9f.JPG)
 
-Budget with added paycheck and subtracted rent. (Status Online)
+Budget added gift and re-imbursement. (Status Online)
 ![scrnsht 3](https://user-images.githubusercontent.com/77247419/122623088-d42fa300-d068-11eb-83bb-9430b421f1b6.JPG)
-
-
 
 # Links
