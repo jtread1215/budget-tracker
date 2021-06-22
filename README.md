@@ -44,4 +44,7 @@ Budget added gift and re-imbursement. (Status Online)
 
 # Links
 Heroku: https://dashboard.heroku.com/apps/budgettracker1215
-GitHub: 
+GitHub: https://jtread1215.github.io/budget-tracker/
+
+# Contact
+If you have any questions or suggestions please feel free to email me at: jtread.1215@gmail.com
