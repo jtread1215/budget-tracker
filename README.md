@@ -33,5 +33,13 @@ The following technologies were used:
   * JQuery
 
 # Visuals
+Budget with added paycheck and subtracted rent. (Status Online)
+![scrnsht 1](https://user-images.githubusercontent.com/77247419/122623071-c5e18700-d068-11eb-86cd-d3e550d955fc.JPG)
+
+Budget subtracted utilities and added lottery win. (Status Offline)
+![scrnsht 2](https://user-images.githubusercontent.com/77247419/122623084-cf6aef00-d068-11eb-9317-6dda52d6fe9f.JPG)
+
+Budget added gift and re-imbursement. (Status Online)
+![scrnsht 3](https://user-images.githubusercontent.com/77247419/122623088-d42fa300-d068-11eb-83bb-9430b421f1b6.JPG)
 
 # Links
